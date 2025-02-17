@@ -1,1 +1,3 @@
-
+create table employee (
+employee_name varchar,
+employee_DOB date);
